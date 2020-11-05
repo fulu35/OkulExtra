@@ -1,0 +1,55 @@
+.ustnav{
+    background-color: #4D1C8A;
+}
+.logo{
+    width: 190px;
+}
+.socialmedia{
+    margin-left: 15px;
+}
+.socialmedia li{
+    margin-right: 10px;
+}
+.sss{
+    color: #ffff;
+}
+h4 {
+    font-weight: 900;
+    text-shadow: 0 0 2px #4d1c8a;
+    color: #4D1C8A;
+}
+.card-footer{
+    background-color: #ffff;
+}
+.btn1{
+    height: 47,600px;
+    width: 300px;
+    background-color: #FD6320;
+    border-radius: 50px;
+    padding: 8px 16px;
+    
+}
+.orangebutton{
+    padding: 12px 20px;
+}
+.btn1:hover{
+   background-color: #4D1C8A ;
+   box-shadow: #4D1C8A;
+}
+.card-footer{
+    text-align: center;
+    color: #4D1C8A;
+}
+.price h1{
+    text-shadow: 2px 2px 6px #4d1c8a;
+    
+    font-weight: 400;
+    margin-bottom: 0px;
+}
+.card-footer a{
+    font-size: 18px;
+    color: white;
+}
+.card-footer a:hover{
+   text-decoration: none;
+}
